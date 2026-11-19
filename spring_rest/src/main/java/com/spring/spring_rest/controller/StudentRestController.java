@@ -32,7 +32,7 @@ public class StudentRestController {
 
     private StudentService studentService;
 
-     /**
+    /**
      * Creates the controller with its service (constructor injection).
      *
      * @param studentService the service that handles student operations
